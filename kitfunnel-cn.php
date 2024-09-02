@@ -3,7 +3,7 @@
 Plugin Name: KitFunnel CN
 Plugin URI: https://kitfunnel.com
 Description: Personalización CN
-Version: 1.1.24
+Version: 1.1.25
 Author: KitFunnel
 License: GPL 2+
 License URI: https://kitfunnel.com */ 
